@@ -5,7 +5,8 @@ Develop a multi-label classification model to classify different diseases based 
 
 ### How to run the file
 Running a Jupyter Notebook (.ipynb file) can be achieved through several methods, primarily using Jupyter Notebook itself, cloud-based services like Google Colab, or integrated development environments (IDEs) like VS Code.
-1. Using Jupyter Notebook (Local Installation):
+
+Using Jupyter Notebook (Local Installation):
 Install Jupyter Notebook: If you don't have it, install Anaconda (which includes Jupyter) or install Jupyter Notebook directly via pip:
 Code
 
