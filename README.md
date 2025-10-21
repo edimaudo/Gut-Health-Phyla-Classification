@@ -1,7 +1,7 @@
 # Gut Microbe Disease Classification
 
 ## Objective 
-Develop a multi-label classification model to classify different diseases based on the microorganisms in the gut microbiome.  The solution is in an .ipynb file.
+Develop a multi-label classification model to classify different diseases based on the microorganisms in the gut microbiome.  The solution is in an .ipynb file [Gut_Health_Classification.ipynb](https://github.com/edimaudo/Gut-Microbe-Disease-Classification/blob/main/Gut_Health_Classification.ipynb).
 
 ### How to run the file
 Running a Jupyter Notebook (.ipynb file) can be achieved through several methods, primarily using Jupyter Notebook itself, cloud-based services like Google Colab, or integrated development environments (IDEs) like VS Code.
